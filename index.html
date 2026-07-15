@@ -289,6 +289,26 @@ text-align:center;
 <button>Submit Exam</button>
 
 </div>
+<h3 id="timer">50:00</h3>
 
+<script>
+let time = 50 * 60;
+
+let timer = setInterval(function(){
+ let minutes = Math.floor(time / 60);
+ let seconds = time % 60;
+
+ document.getElementById("timer").innerHTML =
+ minutes + ":" + (seconds < 10 ? "0" : "") + seconds;
+
+ time--;
+
+ if(time < 0){
+  clearInterval(timer);
+  alert("Yeroon xumurame!");
+ }
+},1000);
+</script>
 </body>
 </html>
+
