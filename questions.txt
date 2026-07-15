@@ -1,3 +1,17 @@
+Computer Hardware and Network Service - COC Practice
+
 1. CPU jechuun maal?
+A) Memory
+B) Processor
+C) Storage
+D) Monitor
+
+Answer: B
+
 2. RAM hojii maalii qaba?
-3. SSD fi HDD gidduu garaagarummaan maal?
+A) Data yeroo hojii irra jirutti qabata
+B) Computer dhaamsa
+C) Print godha
+D) Internet kenna
+
+Answer: A
