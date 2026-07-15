@@ -1,17 +1,72 @@
-Computer Hardware and Network Service - COC Practice
+Computer Hardware and Network Service
+COC Practice Questions
 
 1. CPU jechuun maal?
-A) Memory
-B) Processor
-C) Storage
-D) Monitor
-
-Answer: B
+A) Central Processing Unit
+B) Computer Power Unit
+C) Central Program User
+D) Control Processing User
+Answer: A
 
 2. RAM hojii maalii qaba?
-A) Data yeroo hojii irra jirutti qabata
-B) Computer dhaamsa
-C) Print godha
-D) Internet kenna
+A) Data yeroo hojii irra jirutti kuusa
+B) Computer banuu
+C) Print gochuu
+D) Internet qofa kennuu
+Answer: A
 
+3. Motherboard jechuun maal?
+A) Qaama kompiitaraa qaamota walitti hidhu
+B) Keyboard
+C) Mouse
+D) Monitor
+Answer: A
+
+4. HDD jechuun maal?
+A) Meeshaa kuusaa dataa
+B) Meeshaa sagalee
+C) Kaardii network
+D) Power supply
+Answer: A
+
+5. SSD faayidaan isaa guddaan maal?
+A) Saffisa dubbisuu fi barreessuu olaanaa qaba
+B) Sagalee dabala
+C) Suuraa qofa agarsiisa
+D) Internet dabala
+Answer: A
+
+6. Keyboard hojii maalii qaba?
+A) Odeeffannoo galchuuf
+B) Data kuusuuf
+C) Computer qabbaneessuuf
+D) Network uumuu
+Answer: A
+
+7. Monitor hojii isaa maal?
+A) Odeeffannoo mul'isu
+B) Data kuusu
+C) Current kennu
+D) Virus balleessu
+Answer: A
+
+8. Power Supply Unit (PSU) hojii isaa maal?
+A) Humna elektrikii computer keessaaf qoodu
+B) Data barreessu
+C) Internet kennu
+D) Suuraa kaasu
+Answer: A
+
+9. Virus computer jechuun maal?
+A) Sagantaa miidhaa geessisu
+B) Hardware haaraa
+C) Operating system
+D) Cable
+Answer: A
+
+10. Operating System fakkeenya isaa kami?
+A) Windows
+B) Mouse
+C) RAM
+D) Printer
 Answer: A
