@@ -1,1 +1,294 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TuluTech Online Exam</title>
 
+<style>
+body{
+font-family: Arial;
+background:#f2f2f2;
+padding:20px;
+}
+
+.container{
+background:white;
+max-width:800px;
+margin:auto;
+padding:20px;
+border-radius:10px;
+}
+
+h1,h3{
+text-align:center;
+color:#0066cc;
+}
+
+.question{
+background:#fafafa;
+padding:15px;
+margin:15px 0;
+border-radius:8px;
+}
+
+button{
+background:green;
+color:white;
+padding:12px 25px;
+border:none;
+border-radius:5px;
+font-size:18px;
+}
+
+#result{
+font-size:22px;
+color:green;
+text-align:center;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>TuluTech Online Exam</h1>
+<h3>Computer Hardware and Network Service</h3>
+
+<label>Student Name:</label>
+<input type="text" id="name"><br><br>
+
+<label>Student ID:</label>
+<input type="text" id="id"><br>
+
+<hr>
+
+
+<div class="question">
+<b>1. CPU jechuun maal jechuudha?</b><br>
+<input type="radio" name="q1" value="A"> A) Central Processing Unit<br>
+<input type="radio" name="q1" value="B"> B) Computer Power Unit<br>
+<input type="radio" name="q1" value="C"> C) Control Program Unit<br>
+<input type="radio" name="q1" value="D"> D) Central Process User
+</div>
+
+
+<div class="question">
+<b>2. RAM hojii maalii qaba?</b><br>
+<input type="radio" name="q2" value="A"> A) Data yeroo hoji irra jiru kuusa<br>
+<input type="radio" name="q2" value="B"> B) Computer banuu<br>
+<input type="radio" name="q2" value="C"> C) Print gochuu<br>
+<input type="radio" name="q2" value="D"> D) Internet kennuu
+</div>
+
+
+<div class="question">
+<b>3. Motherboard jechuun maal?</b><br>
+<input type="radio" name="q3" value="A"> A) Qaama kompitaraa qaamota walitti hidhu<br>
+<input type="radio" name="q3" value="B"> B) Keyboard<br>
+<input type="radio" name="q3" value="C"> C) Mouse<br>
+<input type="radio" name="q3" value="D"> D) Monitor
+</div>
+
+
+<div class="question">
+<b>4. HDD hojii maalii qaba?</b><br>
+<input type="radio" name="q4" value="A"> A) Meeshaa kuusaa dataa<br>
+<input type="radio" name="q4" value="B"> B) Sagalee kennuu<br>
+<input type="radio" name="q4" value="C"> C) Kaardii network<br>
+<input type="radio" name="q4" value="D"> D) Power supply
+</div>
+
+
+<div class="question">
+<b>5. SSD faayidaan isaa maal?</b><br>
+<input type="radio" name="q5" value="A"> A) Saffisaan data dubbisa<br>
+<input type="radio" name="q5" value="B"> B) Sagalee dabala<br>
+<input type="radio" name="q5" value="C"> C) Suuraa qofa agarsiisa<br>
+<input type="radio" name="q5" value="D"> D) Internet dabala
+</div>
+
+
+<div class="question">
+<b>6. Keyboard hojii maalii qaba?</b><br>
+<input type="radio" name="q6" value="A"> A) Barreessuu fi ajaja kennuu<br>
+<input type="radio" name="q6" value="B"> B) Suuraa kaasu<br>
+<input type="radio" name="q6" value="C"> C) Sagalee baasuu<br>
+<input type="radio" name="q6" value="D"> D) Data kuusuu
+</div>
+
+
+<div class="question">
+<b>7. Monitor jechuun maal?</b><br>
+<input type="radio" name="q7" value="A"> A) Output device<br>
+<input type="radio" name="q7" value="B"> B) Input device<br>
+<input type="radio" name="q7" value="C"> C) Storage device<br>
+<input type="radio" name="q7" value="D"> D) Network device
+</div>
+
+
+<div class="question">
+<b>8. Mouse hojii isaa maal?</b><br>
+<input type="radio" name="q8" value="A"> A) Filannoo fi sochii gochuu<br>
+<input type="radio" name="q8" value="B"> B) Data kuusuu<br>
+<input type="radio" name="q8" value="C"> C) Maxxansuu<br>
+<input type="radio" name="q8" value="D"> D) Internet kennuu
+</div>
+
+
+<div class="question">
+<b>9. Printer jechuun maal?</b><br>
+<input type="radio" name="q9" value="A"> A) Output device<br>
+<input type="radio" name="q9" value="B"> B) Input device<br>
+<input type="radio" name="q9" value="C"> C) CPU<br>
+<input type="radio" name="q9" value="D"> D) RAM
+</div>
+
+
+<div class="question">
+<b>10. Power supply hojii isaa maal?</b><br>
+<input type="radio" name="q10" value="A"> A) Humna kennuu<br>
+<input type="radio" name="q10" value="B"> B) Data kuusuu<br>
+<input type="radio" name="q10" value="C"> C) Sagalee baasuu<br>
+<input type="radio" name="q10" value="D"> D) Network uumuu
+</div>
+<div class="question">
+<b>11. Network jechuun maal jechuudha?</b><br>
+<input type="radio" name="q11" value="A"> A) Kompiitarota wal qunnamsiisuu<br>
+<input type="radio" name="q11" value="B"> B) Computer cabsuu<br>
+<input type="radio" name="q11" value="C"> C) Software balleessuu<br>
+<input type="radio" name="q11" value="D"> D) Printer qofa fayyadamu
+</div>
+
+
+<div class="question">
+<b>12. LAN jechuun maal?</b><br>
+<input type="radio" name="q12" value="A"> A) Local Area Network<br>
+<input type="radio" name="q12" value="B"> B) Large Access Network<br>
+<input type="radio" name="q12" value="C"> C) Line Area Node<br>
+<input type="radio" name="q12" value="D"> D) Local Access Number
+</div>
+
+
+<div class="question">
+<b>13. Router hojii maalii qaba?</b><br>
+<input type="radio" name="q13" value="A"> A) Network qindeessa<br>
+<input type="radio" name="q13" value="B"> B) Barreeffama maxxansa<br>
+<input type="radio" name="q13" value="C"> C) Sagalee baasa<br>
+<input type="radio" name="q13" value="D"> D) Suuraa agarsiisa
+</div>
+
+
+<div class="question">
+<b>14. IP Address jechuun maal?</b><br>
+<input type="radio" name="q14" value="A"> A) Teessoo device network keessa jiru<br>
+<input type="radio" name="q14" value="B"> B) Password<br>
+<input type="radio" name="q14" value="C"> C) Software<br>
+<input type="radio" name="q14" value="D"> D) Hardware
+</div>
+
+
+<div class="question">
+<b>15. Switch hojii isaa maal?</b><br>
+<input type="radio" name="q15" value="A"> A) Meeshaalee network walitti hidhuu<br>
+<input type="radio" name="q15" value="B"> B) Data balleessuu<br>
+<input type="radio" name="q15" value="C"> C) Computer cabsuu<br>
+<input type="radio" name="q15" value="D"> D) Monitor ta'uu
+</div>
+
+
+<div class="question">
+<b>16. Virus computer maalidha?</b><br>
+<input type="radio" name="q16" value="A"> A) Sagantaa miidhaa fidu<br>
+<input type="radio" name="q16" value="B"> B) Hardware haaraa<br>
+<input type="radio" name="q16" value="C"> C) Keyboard<br>
+<input type="radio" name="q16" value="D"> D) Cable
+</div>
+
+
+<div class="question">
+<b>17. Antivirus hojii isaa maal?</b><br>
+<input type="radio" name="q17" value="A"> A) Virus ittisuu fi balleessuu<br>
+<input type="radio" name="q17" value="B"> B) Internet cabsuu<br>
+<input type="radio" name="q17" value="C"> C) RAM dabalu<br>
+<input type="radio" name="q17" value="D"> D) Monitor sirreessuu
+</div>
+
+
+<div class="question">
+<b>18. USB jechuun maal?</b><br>
+<input type="radio" name="q18" value="A"> A) Meeshaa wal qunnamtii<br>
+<input type="radio" name="q18" value="B"> B) Operating System<br>
+<input type="radio" name="q18" value="C"> C) CPU<br>
+<input type="radio" name="q18" value="D"> D) Printer
+</div>
+
+
+<div class="question">
+<b>19. Operating System fakkeenya isaa kam?</b><br>
+<input type="radio" name="q19" value="A"> A) Windows<br>
+<input type="radio" name="q19" value="B"> B) Mouse<br>
+<input type="radio" name="q19" value="C"> C) Keyboard<br>
+<input type="radio" name="q19" value="D"> D) RAM
+</div>
+
+
+<div class="question">
+<b>20. Software jechuun maal?</b><br>
+<input type="radio" name="q20" value="A"> A) Sagantaa computer keessatti hojjetu<br>
+<input type="radio" name="q20" value="B"> B) Qaama harkaan qabamu<br>
+<input type="radio" name="q20" value="C"> C) Cable<br>
+<input type="radio" name="q20" value="D"> D) Motherboard
+</div>
+
+
+<div class="question">
+<b>21. Hardware jechuun maal?</b><br>
+<input type="radio" name="q21" value="A"> A) Qaama computer harkaan qabamu<br>
+<input type="radio" name="q21" value="B"> B) App<br>
+<input type="radio" name="q21" value="C"> C) File<br>
+<input type="radio" name="q21" value="D"> D) Website
+</div>
+
+
+<div class="question">
+<b>22. Ethernet cable hojii isaa maal?</b><br>
+<input type="radio" name="q22" value="A"> A) Network wal qunnamsiisa<br>
+<input type="radio" name="q22" value="B"> B) Sagalee dabala<br>
+<input type="radio" name="q22" value="C"> C) Suuraa kaasa<br>
+<input type="radio" name="q22" value="D"> D) Computer cabsaa
+</div>
+
+
+<div class="question">
+<b>23. BIOS maalif tajaajila?</b><br>
+<input type="radio" name="q23" value="A"> A) Computer jalqabsiisuuf<br>
+<input type="radio" name="q23" value="B"> B) Internet kennuuf<br>
+<input type="radio" name="q23" value="C"> C) Print gochuuf<br>
+<input type="radio" name="q23" value="D"> D) Video ilaaluuf
+</div>
+
+
+<div class="question">
+<b>24. Backup jechuun maal?</b><br>
+<input type="radio" name="q24" value="A"> A) Data irraa koophii kaa'uu<br>
+<input type="radio" name="q24" value="B"> B) Data balleessuu<br>
+<input type="radio" name="q24" value="C"> C) Virus uumu<br>
+<input type="radio" name="q24" value="D"> D) Computer cabsuu
+</div>
+
+
+<div class="question">
+<b>25. Cloud storage jechuun maal?</b><br>
+<input type="radio" name="q25" value="A"> A) Data online kuusuu<br>
+<input type="radio" name="q25" value="B"> B) Keyboard<br>
+<input type="radio" name="q25" value="C"> C) Monitor<br>
+<input type="radio" name="q25" value="D"> D) CPU
+</div>
+
+<button>Submit Exam</button>
+
+</div>
+
+</body>
+</html>
