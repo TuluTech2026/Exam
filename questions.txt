@@ -70,3 +70,282 @@ B) Mouse
 C) RAM
 D) Printer
 Answer: A
+11. Motherboard irratti CPU eessa kaa'ama?
+A) CPU Socket
+B) RAM Slot
+C) USB Port
+D) Power Port
+Answer: A
+
+12. RAM jechuun maal?
+A) Random Access Memory
+B) Read Access Machine
+C) Rapid Application Memory
+D) Real Access Memory
+Answer: A
+
+13. Printer hojii isaa maal?
+A) Waraqaa irratti maxxansuu
+B) Data kuusuu
+C) Internet kennuu
+D) Sagalee baasu
+Answer: A
+
+14. Scanner hojii isaa maal?
+A) Dokumentii gara digitalitti jijjiiru
+B) Maxxansuu
+C) Sagalee waraabuu
+D) Computer cimsuu
+Answer: A
+
+15. USB jechuun maal?
+A) Universal Serial Bus
+B) United System Board
+C) User Service Base
+D) Universal Storage Box
+Answer: A
+
+16. Network jechuun maal?
+A) Kompiitara lama ykn isaa ol wal qunnamsiisuu
+B) Computer dhaamsuu
+C) Data balleessuu
+D) Software haquu
+Answer: A
+
+17. LAN jechuun maal?
+A) Local Area Network
+B) Large Access Network
+C) Local Application Node
+D) Line Area Number
+Answer: A
+
+18. WAN jechuun maal?
+A) Wide Area Network
+B) Wireless Access Node
+C) Web Area Network
+D) Wide Application Network
+Answer: A
+
+19. Router hojii isaa maal?
+A) Network adda addaa wal qunnamsiisuu
+B) Data maxxansuu
+C) Sagalee baasu
+D) Virus balleessu
+Answer: A
+
+20. Switch hojii isaa maal?
+A) Meeshaalee network walitti hidhuu
+B) Computer cabsuu
+C) Battery charge gochuu
+D) Suuraa agarsiisuu
+Answer: A
+
+21. IP Address jechuun maal?
+A) Teessoo adda baasaa meeshaa network
+B) Maqaa computer
+C) Password
+D) Software
+Answer: A
+
+22. MAC Address maal?
+A) Teessoo addaa network card
+B) Password
+C) File maqaa
+D) Printer maqaa
+Answer: A
+
+23. Ethernet Cable kan fayyadu maalif?
+A) Network wal qunnamsiisuuf
+B) Sagalee dabaluuf
+C) Suuraa kaasuuf
+D) Battery charge gochuuf
+Answer: A
+
+24. RJ45 Connector eessa fayyada?
+A) Network cable irratti
+B) Monitor irratti
+C) Keyboard irratti
+D) Printer irratti
+Answer: A
+
+25. Wi-Fi jechuun maal?
+A) Wireless network
+B) Hard disk
+C) Software
+D) Virus
+Answer: A
+
+26. Antivirus hojii isaa maal?
+A) Malware ittisuu fi balleessuu
+B) Internet cufu
+C) RAM dabalu
+D) Screen jijjiiru
+Answer: A
+
+27. Backup jechuun maal?
+A) Copy dataa kaa'uu
+B) Data balleessuu
+C) Computer cabsuu
+D) Password jijjiiruu
+Answer: A
+
+28. Format jechuun maal?
+A) Disk qopheessuu
+B) Computer banuu
+C) Cable hidhuu
+D) Printer suphuu
+Answer: A
+
+29. BIOS jechuun maal?
+A) Sagantaa jalqabaa computer banu
+B) Game
+C) Browser
+D) Antivirus
+Answer: A
+
+30. Boot jechuun maal?
+A) Computer jalqabsiisuu
+B) Computer cabsuu
+C) File haquu
+D) Internet cufu
+Answer: A
+
+31. HDMI cable maal dabarsa?
+A) Audio fi Video
+B) Current qofa
+C) Data qofa
+D) Password
+Answer: A
+
+32. VGA cable maalif fayyada?
+A) Video dabarsuuf
+B) Network gochuuf
+C) Sagalee qofaaf
+D) Storage
+Answer: A
+
+33. Cooling fan hojii isaa maal?
+A) Computer qabbaneessuu
+B) Data kuusuu
+C) Internet kennuu
+D) Print gochuu
+Answer: A
+
+34. Heat sink hojii isaa maal?
+A) Ho'a CPU hir'isu
+B) RAM dabalu
+C) Data kuusu
+D) Sagalee baasu
+Answer: A
+
+35. Malware jechuun maal?
+A) Software miidhaa geessisu
+B) Hardware
+C) Cable
+D) Monitor
+Answer: A
+
+36. Password cimaa qabaachuun maaliif barbaachisa?
+A) Account eeguuf
+B) Computer saffisaaf
+C) Screen guddisuuf
+D) Printer fayyadamuuf
+Answer: A
+
+37. Firewall hojii isaa maal?
+A) Network eeguuf
+B) RAM qulqulleessuuf
+C) Monitor sirreessuuf
+D) Battery guutuuf
+Answer: A
+
+38. Cloud storage jechuun maal?
+A) Data online kuusuu
+B) Hard disk cabsuu
+C) Printer fayyadamuu
+D) Cable hidhuu
+Answer: A
+
+39. Google Drive maal?
+A) Cloud storage
+B) Antivirus
+C) Operating System
+D) CPU
+Answer: A
+
+40. Windows jechuun maal?
+A) Operating System
+B) Hardware
+C) Cable
+D) Network card
+Answer: A
+
+41. Linux jechuun maal?
+A) Operating System
+B) Printer
+C) RAM
+D) Mouse
+Answer: A
+
+42. Device Driver maalif barbaachisa?
+A) Hardware akka hojjetu gochuuf
+B) Internet cufuuf
+C) File haqsuuf
+D) Password uumuuf
+Answer: A
+
+43. Mouse hojii isaa maal?
+A) Filannoo fi sochii gochuuf
+B) Data kuusuuf
+C) Print gochuuf
+D) Network uumuu
+Answer: A
+
+44. Keyboard keessaa Enter key hojii isaa maal?
+A) Ajaja mirkaneessuuf
+B) Computer cabsuuf
+C) Internet cufuuf
+D) Sagalee dabaluuf
+Answer: A
+
+45. Hard Disk keessa maal kuufama?
+A) Data fi files
+B) Current
+C) Sagalee qofa
+D) Suuraa qofa
+Answer: A
+
+46. Network Card (NIC) hojii isaa maal?
+A) Networkitti wal qunnamsiisuu
+B) Monitor hojjechuu
+C) Print gochuu
+D) RAM dabalu
+Answer: A
+
+47. Ping command hojii isaa maal?
+A) Network connection qorachuuf
+B) File haqsuuf
+C) Computer banuuf
+D) Password jijjiiruuf
+Answer: A
+
+48. Malware irraa of eeguuf maal gochuu qabna?
+A) Antivirus fayyadamuu
+B) Password kennuu
+C) Unknown file banuu
+D) Update dhiisuu
+Answer: A
+
+49. Computer maintenance jechuun maal?
+A) Computer kunuunsuu fi suphuu
+B) Computer gubuu
+C) Data balleessuu
+D) Internet cufuu
+Answer: A
+
+50. Technician hojii isaa guddaan maal?
+A) Rakkoo computer adda baasuu fi sirreessuu
+B) Music hojjechuu
+C) Video qofa ilaalu
+D) Game taphachuu
+Answer: A
